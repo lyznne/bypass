@@ -1,7 +1,8 @@
+# importing modules ,string and random
 import random 
 import string
 
-print(' welcome to password picker ')
+print(' welcome to password picker * *')
 print( )
 while True:
     for i in range(3):
